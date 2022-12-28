@@ -35,6 +35,9 @@
   },
   "name": "@000erick/auna-test-button",
   "author": "Erick",
+  "publishConfig": {
+    "access": "public"
+  },
   "module": "dist/button.esm.js",
   "size-limit": [
     {
@@ -58,5 +61,5 @@
     "tslib": "^2.4.1",
     "typescript": "^4.9.4"
   },
-  "gitHead": "7078b37332479b95d3a01980d4dd19b48ed71914"
+  "gitHead": "26705cfca88517220e89b27abfb975a5eeca4dd7"
 }
