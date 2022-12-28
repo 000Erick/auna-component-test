@@ -33,7 +33,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "000Erick/button",
+  "name": "auna-test-button",
   "author": "Erick",
   "module": "dist/button.esm.js",
   "size-limit": [

@@ -1,0 +1,16 @@
+0 silly argv {
+0 silly argv   _: [ 'publish' ],
+0 silly argv   registry: 'https://npm.pkg.github.com/',
+0 silly argv   composed: 'publish',
+0 silly argv   lernaVersion: '6.3.0',
+0 silly argv   '$0': '/Users/ediazsil/Desktop/Dev/auna/auna-components-ui/node_modules/.bin/lerna'
+0 silly argv }
+1 notice cli v6.3.0
+2 verbose rootPath /Users/ediazsil/Desktop/Dev/auna/auna-components-ui
+3 error Error: Invalid package name "000Erick/card": name can only contain URL-friendly characters
+3 error     at invalidPackageName (/Users/ediazsil/Desktop/Dev/auna/auna-components-ui/node_modules/npm-package-arg/npa.js:89:15)
+3 error     at Result.setName (/Users/ediazsil/Desktop/Dev/auna/auna-components-ui/node_modules/npm-package-arg/npa.js:124:11)
+3 error     at new Result (/Users/ediazsil/Desktop/Dev/auna/auna-components-ui/node_modules/npm-package-arg/npa.js:114:23)
+3 error     at Function.resolve (/Users/ediazsil/Desktop/Dev/auna/auna-components-ui/node_modules/npm-package-arg/npa.js:61:15)
+3 error     at new Package (/Users/ediazsil/Desktop/Dev/auna/auna-components-ui/node_modules/@lerna/package/index.js:94:26)
+3 error     at /Users/ediazsil/Desktop/Dev/auna/auna-components-ui/node_modules/@lerna/project/index.js:280:26

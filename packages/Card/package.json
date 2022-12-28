@@ -33,7 +33,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "000Erick/card",
+  "name": "auna-test-card",
   "author": "Erick",
   "module": "dist/card.esm.js",
   "size-limit": [
