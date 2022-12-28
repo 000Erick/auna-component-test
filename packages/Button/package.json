@@ -33,7 +33,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "button",
+  "name": "000Erick/button",
   "author": "Erick",
   "module": "dist/button.esm.js",
   "size-limit": [
@@ -57,5 +57,6 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.4.1",
     "typescript": "^4.9.4"
-  }
+  },
+  "gitHead": "2a1a0e86c32ed07dc681056225e5116bf71b2f74"
 }
