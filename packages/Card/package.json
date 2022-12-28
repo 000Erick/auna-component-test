@@ -33,7 +33,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "auna-test-card",
+  "name": "@000erick/auna-test-card",
   "author": "Erick",
   "module": "dist/card.esm.js",
   "size-limit": [
@@ -58,5 +58,5 @@
     "tslib": "^2.4.1",
     "typescript": "^4.9.4"
   },
-  "gitHead": "0ca9d0dfd588132cc260e1b2f04142cbb1b04471"
+  "gitHead": "d67a66aec911c74178e9147627852c0444339866"
 }
