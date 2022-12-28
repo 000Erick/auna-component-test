@@ -38,6 +38,10 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:000Erick/auna-component-test.git"
+  },
   "module": "dist/card.esm.js",
   "size-limit": [
     {
@@ -61,5 +65,5 @@
     "tslib": "^2.4.1",
     "typescript": "^4.9.4"
   },
-  "gitHead": "7878e2f08f0e5b1f198a7e5fc1b7a2d817416a98"
+  "gitHead": "89d20d29e43ca6bb0556c32c57255b942cdca2b1"
 }
